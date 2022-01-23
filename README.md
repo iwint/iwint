@@ -1,6 +1,6 @@
 
 
-<img  src="https://i.makeagif.com/media/12-20-2016/wZfadf.gif"  width="3000px" height="500"/>
+<img  src="https://i.makeagif.com/media/12-20-2016/wZfadf.gif"  width="900px" height="600" />
   <!--                                                           <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
