@@ -37,11 +37,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> Pronouns: ***He/His*** or ***TeamMaker***😉  <br>
-<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> I’m currently learning **ReactJS** & **NodeJS**<br>
-<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> I’m looking to collaborate with any **Open - Source contribution**<br>
-<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+ Pronouns: ***He/His*** or ***TeamMaker***😉  <br>
+ I’m currently learning **ReactJS** & **NodeJS**<br>
+ I’m looking to collaborate with any **Open - Source contribution**<br>
+ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
