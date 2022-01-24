@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Iwin</h1>
 <h3 align="center">Student | Web Developer </h3>
 <p align="center" display="inline">
-   <a href="https://www.facebook.com/iwin.son.71" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" alt="akash chowrasia" height="50px" width="50px" /></a>
+   <a href="https://wa.me/9384913517?text=Hi%27,%20like%20to%20chat%20with%20you" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" alt="akash chowrasia" height="50px" width="50px" /></a>
    <a href="https://www.instagram.com/__i__w__i__n__i__s__s__a__c__/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="50px" width="50px" mt-3 /></a>
 <a href="https://www.linkedin.com/in/iwin-t-a888311bb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="iwin" height="50px" width="50px" /></a>
 <a href="https://www.facebook.com/iwin.son.71" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="akash chowrasia" height="50px" width="50px" /></a>
@@ -37,16 +37,16 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> Pronouns: ***He/His*** or ***TeamMaker***😉  <br>
+<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> I’m currently learning **ReactJS** & **NodeJS**<br>
+<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> I’m looking to collaborate with any **Open - Source contribution**<br>
+<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+<img height="30" src="https://media.baamboozle.com/uploads/images/82679/1598006168_352637"> Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
-  
+  <short>
  
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
