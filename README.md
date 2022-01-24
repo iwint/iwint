@@ -7,10 +7,13 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Iwin</h1>
 <h3 align="center">Student | Web Developer </h3>
-<p align="center">
+<p align="center" display="inline">
+   <a href="https://www.instagram.com/__i__w__i__n__i__s__s__a__c__/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="55 width="50" mt-3 /></a>
 <a href="https://www.linkedin.com/in/iwin-t-a888311bb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="iwin" height="50" width="50" /></a>
 <a href="https://www.facebook.com/iwin.son.71" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="akash chowrasia" height="50" width="50" /></a>
-<!-- <a href = "mailto: iwinissacofficial@gmail.com"><img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" height="50" width="50" /></a>-->
+    
+ 
+
 </p>
 </p>
 
