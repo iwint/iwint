@@ -6,7 +6,7 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Iwin</h1>
-<h3 align="center">Student | Web Developer </h3>
+<h3 align="center">Student | React Developer </h3>
 <p align="center" display="inline">
    <a href="https://wa.me/919384913517?text=Hi%27,%20like%20to%20chat%20with%20you" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" alt="akash chowrasia" height="50px" width="50px" /></a>
    <a href="https://www.instagram.com/__i__w__i__n__i__s__s__a__c__/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="50px" width="50px" mt-3 /></a>
@@ -47,16 +47,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   <short>
- 
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+     <img height="50" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif"> <short/>
+ <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642957728085/HCKOutplS.gif"> <short/> 
+     <img height="50" src="https://user-images.githubusercontent.com/24686293/32004280-3e29b136-b9ae-11e7-89ca-8f8fe633084c.gif"> <short/>
+   <img height="50"  src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif">
+  <short/> 
   <hr>
