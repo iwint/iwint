@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    This is ME, Iwin, a <b>Second year</b> undergraduate from <a href="https://snsct.org/"> <b>SNS College Of Technology</b>, Coimbatore</a>. <br>
+    This is ME, Iwin, a <b>Third year</b> undergraduate from <a href="https://snsct.org/"> <b>SNS College Of Technology</b>, Coimbatore</a>. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="30px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
@@ -38,7 +38,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+✔ I’m currently Learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
