@@ -1,4 +1,4 @@
-
+<!--
 <div align="center">
 <img  src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  width="700px" />
 </div>
@@ -33,7 +33,7 @@
 </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>-->
-<!--<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />-->
+<!--<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***Talking about Personal Stuffs...***
 
@@ -53,3 +53,17 @@
    <img height="50"  src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif">
   <short/> 
   <hr>
+-->
+
+
+
+<!-- New One -->
+
+# Hey 👋
+As a software engineer, I specialize in crafting web, mobile, and desktop applications. I have a passion for coding and enjoy expressing my skills through contributions to open source projects.
+
+### [Get Connect with Me 🚀](https://linktr.ee/BalaG) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=balaji-sivasakthi.balaji-sivasakthi)
+|  Stats      | Langs           | Streak  |
+|:-------------:|:-------------:|:-----:|
+| ![Balaji's github stats](https://github-readme-stats.vercel.app/api?username=balaji-sivasakthi&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D) | [![Balaji's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-sivasakthi&layout=compact&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://github.com/balaji-sivasakthi?tab=repositories) | [![Balaji's Streak](https://github-readme-streak-stats.herokuapp.com?user=balaji-sivasakthi&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=74FF0A&background=2D2D2D&currStreakLabel=74FF0A&fire=74FF0A&sideLabels=74FF0A)](https://git.io/streak-stats) |
