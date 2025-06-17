@@ -9,8 +9,8 @@
 
 Whether it’s building pixel-perfect UIs in **React**, orchestrating backend logic with **Node.js**, or wrangling APIs like **OpenAI** or **Google Calendar**, I turn caffeine into code across browsers, phones, and the cloud.
 
-Currently crafting cool stuff at **Grey Feathers Pvt Ltd** — React, Next.js, and React Native are my playgrounds.  
-I have **two years of battle-tested experience** turning designs into real, scalable, user-loving products.
+Currently crafting cool stuff at **KGISL** — React, Next.js, and React Native are my playgrounds.  
+I have **three years of battle-tested experience** turning designs into real, scalable, user-loving products.
 
 ---
 
